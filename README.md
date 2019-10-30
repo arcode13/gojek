@@ -4,9 +4,9 @@ pkg install git
 
 pkg install php
 
-git clone https://github.com/arcode13/gojek-tools
+git clone https://github.com/arcode13/gojek
 
-cd gojek-tools
+cd gojek
 
 php gojek.php
 
