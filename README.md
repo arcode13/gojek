@@ -1,4 +1,4 @@
-# Tutorial Cara Menjalankan Via TERMUX
+# Tutorial Cara Menjalankan Via TERMUX :
 
 pkg install git
 
