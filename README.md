@@ -12,4 +12,5 @@
       $ nano token-akun.txt
 <br/>
 
-_Thanks To : SGB Team & ArCode_
+        _Thanks To : SGB Team & ArCode_
+<br/>
