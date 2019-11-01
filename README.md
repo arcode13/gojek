@@ -1,13 +1,13 @@
-# Tutorial Cara Menjalankan Via TERMUX :
+## Tutorial Cara Menjalankan Via TERMUX :
 
-pkg install git
+* pkg install git
 
-pkg install php
+* pkg install php
 
-git clone https://github.com/arcode13/gojek
+* git clone https://github.com/arcode13/gojek
 
-cd gojek
+* cd gojek
 
-php gojek.php
+* php gojek.php
 
  _Thanks To : SGB Team & ArCode_
