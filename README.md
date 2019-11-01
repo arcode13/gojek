@@ -1,4 +1,4 @@
-## Tutorial Via TERMUX :
+## Tutorial Menjalankan BOT Via TERMUX :
       $ pkg install git
       $ pkg install php
       $ git clone https://github.com/arcode13/gojek
@@ -6,7 +6,7 @@
       $ php gojek.php
 <br/>
 
-## Tutorial Mengecek token-akun.txt Via Termux :
+## Tutorial Mengecek File .txt Via TERMUX :
       $ pkg install nano
       $ cd gojek
       $ nano token-akun.txt
