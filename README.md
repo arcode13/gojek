@@ -8,6 +8,7 @@
 
 ## Tutorial Mengecek token-akun.txt Via Termux :
       $ pkg install nano
+      $ cd gojek
       $ nano token-akun.txt
 <br/>
 
