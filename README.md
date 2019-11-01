@@ -1,5 +1,5 @@
 ## Tutorial Via TERMUX :
-        $ pkg install git
+$ pkg install git
         $ pkg install php
         $ git clone https://github.com/arcode13/gojek
         $ cd gojek
