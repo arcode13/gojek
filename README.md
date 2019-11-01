@@ -6,4 +6,9 @@
       $ php gojek.php
 <br/>
 
- _Thanks To : SGB Team & ArCode_
+## Tutorial Mengecek token-akun.txt Via Termux :
+      $ pkg install nano
+      $ nano token-akun.txt
+<br/>
+
+_Thanks To : SGB Team & ArCode_
