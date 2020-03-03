@@ -12,5 +12,10 @@
       $ nano token-akun.txt
 <br/>
 
+## Tutorial Menghapus Tools TERMUX :
+      $ pkg install mc
+      $ mc
+<br/>
+
       Thanks To : SGB Team & ArCode
 <br/>
